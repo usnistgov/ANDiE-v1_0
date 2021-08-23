@@ -1,9 +1,7 @@
 ANDiE the Autonmous Neutron Diffraction Explorer
 
-The Jupyter notebooks containted herein are of ANDiE as implemented at the WAND2 instrument at the HB-2C beamline 
-at the High-Flux Isotope Reactor (HFIR) at Oak Ridge National Laboratory (ORNL).
-The outputs of the cells are consistant with the autonomous experiment run as performed on 7/24/2021 and subsequent post-processing analysis for a powder sample Fe1.09Te on WAND2. 
 
+The Jupyter notebooks contained herein are of ANDiE as implemented at the WAND2 instrument at the HB-2C beamline at the High-Flux Isotope Reactor (HFIR) at Oak Ridge National Laboratory (ORNL). The outputs of the cells are consistent with the autonomous experiment run as performed on 7/24/2021 and subsequent post-processing analysis for a powder sample Fe1.09Te on WAND2.
 
 
 This software was developed by employees of the National Institute of Standards and Technology (NIST), an agency of the Federal Government and is being made available as a public service. Pursuant to title 17 United States Code Section 105, works of NIST employees are not subject to copyright protection in the United States.  This software may be subject to foreign copyright.  Permission in the United States and in foreign countries, to the extent that NIST may hold copyright, to use, copy, modify, create derivative works, and distribute this software and its documentation without fee is hereby granted on a non-exclusive basis, provided that this notice and disclaimer of warranty appears in all copies. 
